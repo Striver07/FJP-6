@@ -32,6 +32,6 @@ console.log("array after unshift:" + arr2);
 
 // 5. length of an array
  let len = arr2.length;
- console.log(len);
+ console.log()
 
 
